@@ -8,3 +8,12 @@ All this was conceived on the occasion of our distributed system architecture co
 
 - articles  
 - users  
+
+## Installation  
+
+You can set up the backend API by running the following commands(in the project directory) :  
+
+- Create a virtual environment : `$ python3 -m venv <virtual_env_name>`  
+- Activate your virtual environment : `. venv/bin/activate`  
+- Install dependecies : `pip install -r requirements.txt`  
+- Run the API server : `./manage.py runserver`  
